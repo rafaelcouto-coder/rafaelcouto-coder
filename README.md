@@ -26,6 +26,8 @@
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/rafaelcouto-coder/rafaelcouto-coder/blob/output/github-contribution-grid-snake.svg)
+
 _generated with [Platane/snk](https://github.com/Platane/snk)_
  
 </div>
