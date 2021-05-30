@@ -1,4 +1,4 @@
-## Olá, me chamo Rafael Couto :)
+## Olá, me chamo Rafael :)
 
  <div>
   <a href="https://github.com/rafaelcouto-coder">
