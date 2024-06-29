@@ -14,7 +14,7 @@
  <img align="center" alt="Rafael-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Rafael-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
  <img align="center" alt="Rafael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" alt="Rafael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg">
+ <img align="center" alt="Rafael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/azure.svg">
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"       src="https://i.pinimg.com/736x/2d/ba/69/2dba697f8e6d48083ffde99b4527644f.jpg">
 </div>
   
